@@ -4,4 +4,4 @@
 - 📫 How to reach me: joel.eyer@bwz-rappi.ch
 - 💼 LinkedIn: [joel eyer](https://www.linkedin.com/in/joel-eyer-022460342/)
 - Skills:
-  `C#` · `Java` · `ASP .NET CORE` · `Java Spring` · `Java Swing` ·`WPF .NET` · `WinForms .NET` · `SQL (MySQL, MariaDB)` · `MongoDB` · `JavaScript` · `HTML` · `CSS` · `React with Node.js` · `Bash` · `PowerShell Scripting Language (PSL)`
+  `C#` · `Java` · `ASP .NET CORE` · `Java Spring` · `Java Swing` ·`WPF .NET` · `WinForms .NET` · `SQL (MySQL, MariaDB)` · `MongoDB` · `JavaScript` · `HTML` · `CSS` · `React with Node.js` · `Bash` · `PowerShell Scripting Language (PSL)` · `AWS (Amazon Web Services)` · `Docker`
